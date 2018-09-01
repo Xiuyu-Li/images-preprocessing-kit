@@ -26,7 +26,7 @@ $ git clone https://github.com/lxywizard/images-processing-kit.git
 Python 3.5+ is supported and tested.
 
 ```shell
-$ python images-processing-kit.py
+$ python images_processing.py
 ```
 
 Then follow the instructions to do the intended operations for images.
